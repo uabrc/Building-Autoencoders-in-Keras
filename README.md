@@ -35,7 +35,7 @@ fi
 
 ## Starting up the notebook
 
-You can start up an interactive Jupyter notebook session through rc.uab.edu to check if the environment works.
+You can start up an interactive Jupyter notebook session through https://rc.uab.edu to check if the environment works.
 
 Under environment setup, specify
 
