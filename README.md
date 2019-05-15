@@ -1,6 +1,9 @@
 # Building Autoencoders in Keras
 
-Using https://blog.keras.io/building-autoencoders-in-keras.html as a template, this project is for building simple autoencoders for image denoising
+Using https://blog.keras.io/building-autoencoders-in-keras.html as a template, this project is for building simple autoencoders for image denoising.
+
+For further understanding and developing more complex models, check out this Datacamp tutorial using data from the Human Connectome Project: https://www.datacamp.com/community/tutorials/reconstructing-brain-images-deep-learning
+
 
 ## Set up your environment
 
