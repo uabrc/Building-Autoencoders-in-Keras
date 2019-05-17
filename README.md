@@ -24,8 +24,8 @@ This video will walk you through creating your own anaconda environment from thi
 # JOB HEADERS HERE
 mkdir -p /data/user/$USER/rc-dsc
 
-FOLDER = /data/user/$USER/rc-dsc/building-autoencoders-in-keras
-URL = https://gitlab.rc.uab.edu/rc-data-science/building-autoencoders-in-keras.git
+FOLDER=/data/user/$USER/rc-dsc/building-autoencoders-in-keras
+URL=https://gitlab.rc.uab.edu/rc-data-science/building-autoencoders-in-keras.git
 
 if [ ! -d "$FOLDER" ] ; then
     git clone "$URL" "$FOLDER"
